@@ -39,6 +39,13 @@
         RectangleShape1.Height = 20
         RectangleShape1.Width = 20
 
+        OvalShape1.Top = 0
+        RectangleShape1.Top = 0
+
+        OvalShape1.Left = 0
+        RectangleShape1.Left = 0
+
+
         Me.LEDForm = _LEDForm
         Me.LEDColorOff = _LEDColorOff
         Me.LEDColorOn = _LEDColorOn
@@ -166,6 +173,7 @@
 
         OvalShape1.Height = Me.Height - 1
         OvalShape1.Width = Me.Width - 1
+
         RectangleShape1.Height = Me.Height - 1
         RectangleShape1.Width = Me.Width - 1
 

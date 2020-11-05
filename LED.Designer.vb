@@ -41,7 +41,7 @@ Partial Class LED
         '
         'RectangleShape1
         '
-        Me.RectangleShape1.Location = New System.Drawing.Point(8, 8)
+        Me.RectangleShape1.Location = New System.Drawing.Point(-2, 25)
         Me.RectangleShape1.Name = "RectangleShape1"
         Me.RectangleShape1.Size = New System.Drawing.Size(75, 23)
         '
@@ -51,12 +51,15 @@ Partial Class LED
         Me.OvalShape1.Name = "OvalShape1"
         Me.OvalShape1.Size = New System.Drawing.Size(75, 23)
         '
-        'LED3
+        'Timer1
+        '
+        '
+        'LED
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.Controls.Add(Me.ShapeContainer1)
-        Me.Name = "LED3"
+        Me.Name = "LED"
         Me.Size = New System.Drawing.Size(87, 53)
         Me.ResumeLayout(False)
 

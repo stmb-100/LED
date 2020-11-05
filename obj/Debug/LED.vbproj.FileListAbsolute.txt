@@ -16,7 +16,6 @@ C:\Users\stefa\source\repos\WCL_LED\bin\Debug\WindowsControlLibrary1.pdb
 C:\Users\stefa\source\repos\WCL_LED\bin\Debug\WindowsControlLibrary1.xml
 C:\Users\stefa\source\repos\WCL_LED\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
 C:\Users\stefa\source\repos\WCL_LED\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
-C:\Users\stefa\source\repos\WCL_LED\obj\Debug\LED.vbprojAssemblyReference.cache
 C:\Users\stefa\source\repos\WCL_LED\obj\Debug\WindowsControlLibrary1.LED.resources
 C:\Users\stefa\source\repos\WCL_LED\obj\Debug\WindowsControlLibrary1.Resources.resources
 C:\Users\stefa\source\repos\WCL_LED\obj\Debug\LED.vbproj.GenerateResource.cache
